@@ -45,19 +45,6 @@ Matplotlib (plot rendering)
 
 Jupyter Notebook (analysis environment)
 
-📌 How to Use
-
-Clone the repository:
-
-git clone https://github.com/<your-username>/<repo-name>.git
-
-
-Install dependencies (if using locally):
-
-pip install pandas seaborn matplotlib
-
-
-Open the Jupyter notebook and run cell-by-cell to render visualizations and commentary.
 
 💡 Key Insights
 
